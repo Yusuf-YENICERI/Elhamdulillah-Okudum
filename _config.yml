@@ -10,7 +10,7 @@ playstore_link                            :                                     
 presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Hep beraber okumanın en basit yolu.
@@ -45,7 +45,7 @@ features                                  :
 
   - title                                 : Grup oluşturarak birbirinizi takip edin
     description                           : Arkadaşlarınızla grup oluşturabilir ve birbirinizin okumalarını takip edebilirsiniz.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : link
 
   - title                                 : Gruplarınıza sadece istediğiniz kişiler erişebilir
     description                           : Gruplarınıza arkadaşlarınızı, ister kullanıcı isimleriyle ekleyin, isterseniz grup kodu paylaşın, onlar kendilerini eklesin.
@@ -58,18 +58,6 @@ features                                  :
   - title                                 : Grup silin, oluşturun ve çok daha fazlası
     description                           : Bu özelliklerin hepsine erişmek için hemen indirin!
     fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
