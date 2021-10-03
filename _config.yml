@@ -1,9 +1,9 @@
 #page title
-page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Elhamdülillah Okudum                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
-ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+ios_app_id                                :                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_country                           :                                  # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
@@ -13,21 +13,21 @@ presskit_download_link                    : https://emilbaehr.com               
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Write a short tagline for your app.
+app_description                           : Hep beraber okumanın en basit yolu.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
-your_link                                 : https://emilbaehr.com                     
-your_city                                 : Copenhagen                                
-email_address                             : emil.baehr@gmail.com
+your_name                                 : Yusuf Yeniçeri                             
+your_link                                 : https://yusuf-yeniceri.web.app                     
+your_city                                 :                                
+email_address                             : hep.beraber.okuyalim@gmail.com
 facebook_username                         :                                           
-instagram_username                        : ebaehr
-twitter_username                          : ebaehr
-github_username                           : emilbaehr
+instagram_username                        : 
+twitter_username                          : 
+github_username                           : 
 youtube_username                          :
 
 
@@ -35,28 +35,28 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Elhamdülillah Okudum Uygulamasına Hoşgeldiniz!
+    description                           : Uygulama ile arkadaşlarınızla beraber grup oluşturarak, beraber okuyabilir ve birbirinizin okumalarını takip edebilirsiniz.
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Hem Mobil hem Web üzerinden erişim mümkün
+    description                           : İster telefonunuza uygulamayı indirin, isterseniz doğrudan website üzerinden uygulamaya girin. Seçim sizin!
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Grup oluşturarak birbirinizi takip edin
+    description                           : Arkadaşlarınızla grup oluşturabilir ve birbirinizin okumalarını takip edebilirsiniz.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : Gruplarınıza sadece istediğiniz kişiler erişebilir
+    description                           : Gruplarınıza arkadaşlarınızı, ister kullanıcı isimleriyle ekleyin, isterseniz grup kodu paylaşın, onlar kendilerini eklesin.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Grubu oluşturan kişi kolayca grup üyelerinin ne kadar okuma yaptıklarını kontrol edebilir
+    description                           : Yöneticiler diğer üyelerin okuma sayılarını takip ederek, arkadaşlarını okumaya teşvik edebilir.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Grup silin, oluşturun ve çok daha fazlası
+    description                           : Bu özelliklerin hepsine erişmek için hemen indirin!
     fontawesome_icon_name                 : star
 
   - title                                 : Smart App Banner
