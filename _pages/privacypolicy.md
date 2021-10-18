@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Policy
+title: Gizlilik Politikası
 include_in_header: false
 ---
 
